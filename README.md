@@ -2,8 +2,8 @@
 
 <a href="https://github.com/jstrieb/github-stats">
   
-![](https://raw.githubusercontent.com/Q-er/github-stats/master/generated/overview.svg?token=ACFYA7T3WZGDY2W5U3EQIYLAGOOWY)
-![](https://raw.githubusercontent.com/Q-er/github-stats/master/generated/languages.svg?token=ACFYA7RLLCBU4W6G5XR5JG3AGOOWE)
+![](https://q-er.github.io/github-stats/overview.svg)
+![](https://q-er.github.io/github-stats/languages.svg)
 
 </a>
 
